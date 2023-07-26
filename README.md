@@ -13,4 +13,8 @@ Welcome to the Flutter Chatting App repository! This project is a fully function
 
 >  Leverage the power of Firebase to handle real-time database, authentication, and cloud messaging.
 
-![image](https://github.com/riyasx7/ChattingApp/assets/137524841/667cd661-e2ee-4f6f-b1e0-58716a20959b)
+![image](https://github.com/riyasx7/ChattingApp/assets/137524841/af98e227-6203-4b0f-8a21-f0b00e7a3afa)
+
+![image](https://github.com/riyasx7/ChattingApp/assets/137524841/3e40bb74-e506-47ea-9d67-10239f75d0e8)
+
+# hope you like it!
