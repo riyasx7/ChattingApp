@@ -12,3 +12,5 @@ Welcome to the Flutter Chatting App repository! This project is a fully function
 > User authentication: Securely sign in and register users to ensure privacy and personalized experiences.
 
 >  Leverage the power of Firebase to handle real-time database, authentication, and cloud messaging.
+
+![image](https://github.com/riyasx7/ChattingApp/assets/137524841/667cd661-e2ee-4f6f-b1e0-58716a20959b)
