@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "859004582285",
+    "project_id": "chatmet-535a8",
+    "storage_bucket": "chatmet-535a8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:859004582285:android:bcb8f55d2a12b3eac0e5c4",
+        "android_client_info": {
+          "package_name": "com.example.chatmet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "859004582285-unoudciaahb9jr6clseh3ulmmk4e2gl0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5fxCLR1Qb3Bx89HAcId5BSYMfTzjt78o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "859004582285-unoudciaahb9jr6clseh3ulmmk4e2gl0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
