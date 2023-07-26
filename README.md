@@ -7,7 +7,7 @@ Welcome to the Flutter Chatting App repository! This project is a fully function
 1) Add firbease to this project and do check the google-services.json and GoogleServices-Info.plist file
 2) Now run the app
 
-##Features:
+## Features:
 
 > User authentication: Securely sign in and register users to ensure privacy and personalized experiences.
 
