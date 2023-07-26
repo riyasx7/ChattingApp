@@ -17,4 +17,4 @@ Welcome to the Flutter Chatting App repository! This project is a fully function
 
 ![image](https://github.com/riyasx7/ChattingApp/assets/137524841/3e40bb74-e506-47ea-9d67-10239f75d0e8)
 
-# hope you like it!
+hope you like it!
